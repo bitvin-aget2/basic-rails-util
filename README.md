@@ -12,5 +12,6 @@ This repository provides tutorials and examples for common utilities in Ruby on 
 2. Follow the tutorials to implement utilities in your own projects.
 
 ## Future Plans
+- Add .gitignore file for Rails projects
 - Expand utilities and examples
 - Include best practices for Rails development
